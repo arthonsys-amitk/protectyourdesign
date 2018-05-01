@@ -1,0 +1,1 @@
+create an attribute imagehash varchar(255) allow null in designs table for storing imagehash for uploading designs
